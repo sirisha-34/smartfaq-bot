@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+*.env
+chat_logs.db
+feedback.json
+*.csv
+*.json
+*.wav
+.DS_Store
+.vscode/
+
+
