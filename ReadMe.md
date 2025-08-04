@@ -50,11 +50,7 @@ I wanted to apply my NLP and Python skills to a **real-world use case** and buil
 - How to handle CSV files dynamically
 - Improving user experience with feedback and chat history
 
----
-
-## 🚀 Run Locally
-
-
+  
 ---
 
 ## 🙌 Contributing
