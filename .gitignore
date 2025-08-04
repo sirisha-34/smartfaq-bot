@@ -2,14 +2,35 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
+
+
 .env
 *.env
+
+
+.vscode/
+.idea/
+
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+
+*.log
 chat_logs.db
+*.sqlite3
 feedback.json
+
+
 *.csv
 *.json
 *.wav
-.DS_Store
-.vscode/
 
 
+.ipynb_checkpoints/
+
+
+*.h5
+*.pt
+*.pkl
